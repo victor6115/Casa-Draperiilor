@@ -1,0 +1,541 @@
+{
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "blog": "Blog",
+    "faq": "FAQ"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Casa Draperiilor",
+      "subtitle": "Transform your home with premium quality curtains and drapes. Elegant design, premium materials and free consultation.",
+      "buyNow": "Buy Now",
+      "viewCategories": "View Categories"
+    },
+    "features": {
+      "freeShipping": {
+        "title": "Free Shipping",
+        "description": "For orders over $500"
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Free consultation"
+      },
+      "warranty": {
+        "title": "2 Year Warranty",
+        "description": "On all products"
+      },
+      "return": {
+        "title": "Free Returns",
+        "description": "Within 14 days"
+      }
+    },
+    "categories": {
+      "title": "Categories",
+      "subtitle": "Discover our varied collection of curtains and drapes, perfectly suited for every room in your home.",
+      "blinds": "Blinds",
+      "curtains": "Curtains",
+      "accessories": "Accessories",
+      "products": "products",
+      "viewCollection": "View Collection"
+    },
+    "products": {
+      "recommended": "Recommended Products",
+      "subtitle": "Premium products carefully selected to transform your home into an elegant and comfortable space.",
+      "blueVelvetCurtain": "Blue Velvet Curtain",
+      "whiteSheerCurtain": "White Sheer Curtain",
+      "grayBlackoutCurtain": "Gray Blackout Curtain",
+      "laceCurtain": "Lace Curtain",
+      "seeMore": "See More"
+    },
+    "newsletter": {
+      "title": "Subscribe to our Newsletter",
+      "subtitle": "Be the first to find out about our new collections, exclusive offers and tips for decorating your home.",
+      "subscribe": "Subscribe",
+      "validationError": "Please enter a valid email address",
+      "successMessage": "Subscription successful! Thank you!"
+    }
+  },
+  "footer": {
+    "description": "Quality curtains and drapes for your home. We offer a wide range of products for all tastes and budgets.",
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "products": "Products",
+      "categories": "Categories",
+      "aboutUs": "About Us",
+      "contact": "Contact",
+      "blog": "Blog",
+      "faq": "FAQ"
+    },
+    "categories": {
+      "title": "Categories",
+      "blinds": "Blinds",
+      "curtains": "Curtains",
+      "accessories": "Accessories",
+      "materialGallery": "Material Gallery",
+      "specialOffers": "Special Offers"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Str. Independenței 15, Chișinău, Moldova",
+      "phone": "+373 22 123 456",
+      "email": "contact@casadraperiilor.md",
+      "hours": {
+        "monFri": "Monday-Friday: 9:00 - 18:00",
+        "sat": "Saturday: 10:00 - 15:00"
+      }
+    },
+    "copyright": "All rights reserved.",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
+  },
+  "productsPage": {
+    "title": "Products",
+    "filter": "Filter",
+    "view": "View:",
+    "searchPlaceholder": "Search products...",
+    "draperies": "Draperies",
+    "curtains": "Curtains",
+    "accessories" : "Accessories",
+     "curtainRods": "Curtain Rods",
+    "curtainRings": "Curtain Rings",
+    "curtainHooks": "Curtain Hooks",
+    "curtainTiebacks": "Curtain Tiebacks",
+    "decorativeTassels": "Decorative Tassels",
+    "curtainBrackets": "Curtain Brackets",
+    "magneticTiebacks": "Magnetic Tiebacks",
+    "extendableCurtainRod": "Extendable Curtain Rod",
+    "curtainCord": "Curtain Cord",
+    "curtainHoldbacks": "Curtain Holdbacks",
+    "curtainFinials": "Curtain Finials",
+    "curtainClips": "Curtain Clips",
+    "doubleRodBracket": "Double Rod Bracket",
+    "curtainWire": "Curtain Wire",
+    "wallMountBracket": "Wall Mount Bracket",
+    "curtainValance": "Curtain Valance",
+    "curtainSwag": "Curtain Swag",
+    "motorizedCurtainMotor": "Motorized Curtain Motor",
+    "curtainWeights": "Curtain Weights",
+    "curtainTiebackHooks": "Curtain Tieback Hooks",
+    "remoteControl": "Remote Control",
+    "curtainTrack": "Curtain Track",
+    "completeAccessorySet": "Complete Accessory Set",
+    "blinds": "Blinds",
+    "velvetBlueDrapery": "Blue Velvet Drapery",
+    "whiteVoileCurtain": "White Voile Curtain",
+    "greyBlackoutDrapery": "Grey Blackout Drapery",
+    "laceCurtain": "Lace Curtain",
+    "jacquardBlackoutSet": "Set of Two Jacquard Blackout Draperies",
+    "kitchenCurtain": "Kitchen Curtain",
+    "bananariDrapery": "BANANARI Drapery 140x250cm",
+    "mabellaCurtain": "MABELLA Curtain 140x250cm",
+    "ron": "MDL",
+    "prev": "Previous",
+    "next": "Next",
+    "addToCart": "Add to Cart",
+    "add": "Add",
+    "addToCartFor": "Add {item} to cart",
+    "addedToCartAlertSuffix": "added to cart!",
+    "cartError": "Could not add item to cart. Please try again.",
+    "categoryLabel": "Category",
+    "modal": {
+      "close": "Close modal",
+      "description": "Description",
+      "noDescription": "Detailed description not available for this product."
+    }
+  },
+  "faqPage": {
+    "title": "Frequently Asked Questions",
+    "searchPlaceholder": "Search questions...",
+    "all": "All",
+    "orders": "Orders",
+    "delivery": "Delivery",
+    "returns": "Returns",
+    "products": "Products",
+    "payment": "Payment",
+    "ctaTitle": "Didn't find the answer?",
+    "ctaText": "Contact us directly and our team will get back to you as soon as possible.",
+    "callUs": "Call Us",
+    "emailUs": "Email Us",
+    "q1": "How long does it take to process an order?",
+    "a1": "Orders are processed within 24-48 business hours of receipt. After processing, you will receive a confirmation email with order details and delivery information.",
+    "q2": "What payment methods are accepted?",
+    "a2": "We accept card payments (Visa, Mastercard), bank transfer, and cash on delivery.",
+    "q3": "How much does delivery cost?",
+    "a3": "Delivery costs 15 RON for orders under 300 RON. For orders over 300 RON, delivery is free.",
+    "q4": "How long will my order take to arrive?",
+    "a4": "After order processing, delivery time is 1-3 business days for locations in Romania.",
+    "q5": "How can I return a product?",
+    "a5": "You can return products within 14 days of receiving your order. Please contact us before sending the package back to receive instructions on the return procedure.",
+    "q6": "What if I receive a damaged product?",
+    "a6": "If you receive a damaged product, please contact us within 48 hours of receiving the order. We will offer solutions for product replacement or a refund.",
+    "q7": "Do you offer installation services for curtains and drapes?",
+    "a7": "Yes, we offer installation services for curtains and drapes in Bucharest and nearby localities. The service cost depends on the complexity of the installation and will be calculated based on your specific requirements.",
+    "q8": "How do I choose the right size for curtains and drapes?",
+    "a8": "To choose the right size, measure the width and height of your window. We recommend that the width of the curtains be 1.5-2 times greater than the window width for an elegant and full look. If you have specific questions, do not hesitate to contact us for assistance.",
+    "q9": "How can I cancel an order?",
+    "a9": "You can cancel an order by contacting us by phone or email as soon as possible after placing the order. If the order has already been processed or shipped, it can no longer be canceled, and you will need to follow the return procedure.",
+    "q10": "How can I track my order status?",
+    "a10": "Order status can be tracked through your customer account on the website. You will also receive email notifications about changes in your order status.",
+    "q11": "What materials are recommended for the kitchen?",
+    "a11": "For the kitchen, we recommend easy-to-maintain and stain-resistant materials, such as polyester or cotton-polyester blends. There are also materials with special anti-stain and flame-retardant treatments, ideal for the cooking area.",
+    "q12": "Can I place an order without creating an account?",
+    "a12": "Yes, you can place an order as a guest without creating an account. However, creating an account allows you to track your orders and benefit from special promotions."
+  },
+  "blogPage": {
+    "title": "Blog",
+    "readMore": "Read More",
+    "by": "By",
+    "sidebar": {
+      "searchTitle": "Search",
+      "searchPlaceholder": "Search articles...",
+      "searchButton": "Search",
+      "recentPostsTitle": "Recent Posts"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "closeButton": "Close",
+    "post1": {
+      "date": "May 15, 2023",
+      "author": "Maria Ionescu",
+      "title": "How to Choose the Right Curtains for Each Room",
+      "excerpt": "Complete guide for choosing curtains based on room, style, and functionality. Find out which materials are suitable for each space.",
+      "fullContent": "Complete guide for choosing curtains based on room, style, and functionality. Find out which materials are suitable for each space. In this article, we'll present you with the best tips and tricks for choosing the perfect curtains for each room in your home. Whether you want to create a warm and welcoming atmosphere in the living room, ensure privacy in the bedroom, or add a splash of color to the kitchen, we have solutions for you..."
+    },
+    "post2": {
+      "date": "April 3, 2023",
+      "author": "Alexandru Popescu",
+      "title": "Interior Design Trends for 2023",
+      "excerpt": "Discover the latest trends in curtains and drapes for 2023. From colors to textures and patterns, learn what's in vogue this year.",
+      "fullContent": "Discover the latest trends in curtains and drapes for 2023. From colors to textures and patterns, learn what's in vogue this year. In this article, we'll show you the most important trends in curtain and drape design for 2023. You'll find out what colors are fashionable, what types of materials are most sought after, and what patterns are trending..."
+    },
+    "post3": {
+      "date": "March 20, 2023",
+      "author": "Elena Munteanu",
+      "title": "How to Properly Care for Your Curtains and Drapes",
+      "excerpt": "Practical tips for maintaining and cleaning curtains and drapes. Learn how to extend the life of your textiles.",
+      "fullContent": "Practical tips for maintaining and cleaning curtains and drapes. Learn how to extend the life of your textiles. In this article, we'll offer you the best advice for caring for and cleaning your curtains and drapes. You'll learn how to remove dust and dirt, how to eliminate stains and unpleasant odors, and how to keep colors vibrant and materials in good condition..."
+    },
+    "post4": {
+      "date": "February 5, 2023",
+      "author": "Mihai Dobre",
+      "title": "The Importance of Blackout Drapes for Better Sleep",
+      "excerpt": "Find out why blackout drapes are essential for a bedroom and how they contribute to improving sleep quality.",
+      "fullContent": "Find out why blackout drapes are essential for a bedroom and how they contribute to improving sleep quality. In this article, we'll discuss the benefits of blackout drapes and why you should consider them for your bedroom. You'll learn how these special drapes can block external light, provide sound insulation, and improve sleep quality..."
+    },
+    "post5": {
+      "date": "January 10, 2023",
+      "author": "Ana Popa",
+      "title": "Curtains and Drapes for the Warm Season",
+      "excerpt": "Recommendations for choosing appropriate textiles during the warm season. Materials, colors, and styles that keep your home cool.",
+      "fullContent": "Recommendations for choosing appropriate textiles during the warm season. Materials, colors, and styles that keep your home cool. In this article, we'll offer you the best advice for choosing the right curtains and drapes for the warm season. You'll learn what materials are best suited to keep your home cool, what colors are recommended to reflect heat, and what styles are most appropriate for the summer season..."
+    },
+    "categories": {
+      "all": "All",
+      "curtains": "Curtains",
+      "drapes": "Drapes",
+      "design": "Design",
+      "maintenance": "Maintenance",
+      "tips": "Tips & Tricks",
+      "accesories" : "Accessories"
+    },
+    "noResults": "No articles found matching your search.",
+    "sharePost": "Share this post",
+    "relatedPosts": "Related Posts",
+    "comments": "Comments",
+    "leaveComment": "Leave a Comment",
+    "subscribeNewsletter": "Subscribe to Our Blog",
+    "subscribeText": "Get the latest articles and design tips straight to your inbox",
+    "subscribeButton": "Subscribe"
+  },
+  "categoriesPage": {
+    "pageTitle": "Categories",
+    "viewAllProducts": "View all products",
+    "subcategoriesTitle": "Subcategories:",
+    "popularSubcategoriesTitle": "Popular Subcategories",
+    "productsCount": "{count} products",
+    "luxuryCollectionTitle": "Luxury Collection",
+    "luxuryCollectionDescription": "Drapes and curtains from premium materials",
+    "discoverCollection": "Discover the collection",
+    "promotionsCollectionTitle": "Promotions",
+    "promotionsCollectionDescription": "Discounts up to 30% on selected products",
+    "viewDetails": "View details",
+    "categoryPerdele": {
+      "name": "Curtains",
+      "description": "Elegant curtains for any room, in a variety of materials and styles.",
+      "subcategories": [
+        {
+          "name": "Voile Curtains",
+          "key": "voileCurtains"
+        },
+        {
+          "name": "Blackout Curtains",
+          "key": "blackoutCurtains"
+        },
+        {
+          "name": "Lace Curtains",
+          "key": "laceCurtains"
+        },
+        {
+          "name": "Kids' Curtains",
+          "key": "kidsCurtains"
+        }
+      ]
+    },
+    "categoryDraperii": {
+      "name": "Drapes",
+      "description": "High-quality drapes offering excellent thermal and sound insulation.",
+      "subcategories": [
+        {
+          "name": "Blackout Drapes",
+          "key": "blackoutDrapes"
+        },
+        {
+          "name": "Thermal Insulating Drapes",
+          "key": "thermalDrapes"
+        },
+        {
+          "name": "Velvet Drapes",
+          "key": "velvetDrapes"
+        },
+        {
+          "name": "Decorative Drapes",
+          "key": "decorativeDrapes"
+        }
+      ]
+    },
+    "categoryAccesorii": {
+      "name": "Accessories",
+      "description": "Accessories for curtains and drapes: rods, rings, hooks, and much more.",
+      "subcategories": [
+        {
+          "name": "Metal Rods",
+          "key": "metalRods"
+        },
+        {
+          "name": "Rings and Hooks",
+          "key": "ringsHooks"
+        },
+        {
+          "name": "Wooden Rods",
+          "key": "woodenRods"
+        },
+        {
+          "name": "Decorative Accessories",
+          "key": "decorativeAccessories"
+        }
+      ]
+    },
+    "categoryJaluzele": {
+      "name": "Blinds",
+      "description": "Vertical and horizontal blinds, perfect for light control and privacy.",
+      "subcategories": [
+        {
+          "name": "Vertical Blinds",
+          "key": "verticalBlinds"
+        },
+        {
+          "name": "Roman Blinds",
+          "key": "romanBlinds"
+        },
+        {
+          "name": "Horizontal Blinds",
+          "key": "horizontalBlinds"
+        },
+        {
+          "name": "Roller Blinds",
+          "key": "rollerBlinds"
+        }
+      ]
+    },
+    "popular": {
+      "voileCurtains": "Voile Curtains",
+      "blackoutDrapes": "Blackout Drapes",
+      "metalRods": "Metal Rods",
+      "velvetDrapes": "Velvet Drapes",
+      "verticalBlinds": "Vertical Blinds",
+      "kidsCurtains": "Kids' Curtains"
+    }
+  },
+  "aboutPage": {
+    "pageTitle": "About Us",
+    "mainSection": {
+      "title": "About Casa Draperiilor",
+      "p1": "Casa Draperiilor is a specialized store in high-quality curtains and drapes, offering personalized solutions for window decoration in any type of home or commercial space.",
+      "p2": "With over 15 years of experience in the field, we have built our reputation on quality products, impeccable services, and attention to detail. Our team of professionals is dedicated to helping you find the perfect solution for your windows.",
+      "p3": "Whether you want to create an elegant ambiance for the living room, ensure privacy in the bedroom, or add a splash of color to the kitchen, we are here to offer advice and products that will turn your vision into reality."
+    },
+    "valuesSection": {
+      "title": "Our Values",
+      "value1": {
+        "icon": "⭐",
+        "title": "Quality",
+        "description": "We only work with premium materials and trusted suppliers to offer durable and aesthetic products that stand the test of time."
+      },
+      "value2": {
+        "icon": "❤️",
+        "title": "Personalized Services",
+        "description": "Each client is unique, which is why we offer personalized consultancy and solutions tailored to individual needs and preferences."
+      },
+      "value3": {
+        "icon": "💡",
+        "title": "Innovation",
+        "description": "We constantly follow trends in interior design and bring the latest materials and technologies to offer you modern and functional options."
+      }
+    },
+    "storySection": {
+      "title": "Our Story",
+      "p1": "Casa Draperiilor started as a small family business in 2007, when our founder, Alexandru Popescu, passionate about textiles and interior design, opened the first store in Bucharest.",
+      "p2": "Over the years, we have grown steadily, adding new collections and expanding our services to meet the ever-evolving demands of our customers. In 2015, we launched the online store to make our products accessible to customers across the country.",
+      "p3": "Today, Casa Draperiilor is a reference name in the field of curtains and drapes. We have expanded not only in Romania but also in Eastern Europe, and have a strong online presence. We continue to be guided by the same principles that have defined us from the beginning: quality, excellent services, and a passion for beauty."
+    },
+    "teamSection": {
+      "title": "Our Team",
+      "member1": {
+        "name": "Alexandru Popescu",
+        "role": "Founder & Director"
+      },
+      "member2": {
+        "name": "Maria Ionescu",
+        "role": "Interior Designer"
+      },
+      "member3": {
+        "name": "Mihai Dobre",
+        "role": "Sales Manager"
+      },
+      "member4": {
+        "name": "Elena Munteanu",
+        "role": "Customer Consultant"
+      }
+    },
+    "testimonialsSection": {
+      "title": "What Our Clients Say About Us",
+      "testimonial1": {
+        "stars": "⭐⭐⭐⭐⭐",
+        "text": "\"Impeccable services and quality products. I was pleasantly surprised by the team's professionalism and the final result. The curtains are exactly what I wanted!\"",
+        "authorName": "Ana Popa",
+        "authorDetail": "Client since 2020"
+      },
+      "testimonial2": {
+        "stars": "⭐⭐⭐⭐⭐",
+        "text": "\"I greatly appreciated the consultancy offered. The team helped me choose the most suitable drapes for the living room, and I am extremely satisfied with the result!\"",
+        "authorName": "Radu Marin",
+        "authorDetail": "Client since 2019"
+      },
+      "testimonial3": {
+        "stars": "⭐⭐⭐⭐⭐",
+        "text": "\"Exceptional quality and professionalism. I ordered drapes for the entire house and I am absolutely delighted. I highly recommend Casa Draperiilor!\"",
+        "authorName": "Diana Florescu",
+        "authorDetail": "Client since 2021"
+      }
+    }
+  },
+  "cartPage": {
+    "pageTitle": "Shopping Cart",
+    "table": {
+      "product": "Product",
+      "quantity": "Quantity",
+      "price": "Price",
+      "total": "Total",
+      "actions": ""
+    },
+    "product1Name": "Blue Velvet Drapery",
+    "product2Name": "Grey Blackout Drapery",
+    "currency": "MDL",
+    "continueShopping": "← Continue Shopping",
+    "updateCart": "↻ Update Cart",
+    "summary": {
+      "title": "Order Summary",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "freeShipping": "Free",
+      "total": "Total",
+      "promoCode": "Promotional Code",
+      "promoPlaceholder": "Enter code",
+      "applyButton": "Apply",
+      "checkoutButton": "Proceed to Checkout",
+      "paymentMethodsTitle": "Accepted Payment Methods:",
+      "paymentVisa": "Visa",
+      "paymentMastercard": "MasterCard",
+      "paymentPaypal": "PayPal"
+    },
+    "emptyCart": {
+      "title": "Your cart is empty",
+      "message": "Looks like you haven't added any products to your cart yet.",
+      "browseProducts": "Browse Products"
+    },
+    "cartUpdatedMessage": "Cart has been updated!",
+    "promo": {
+      "sale10": "10% discount applied!",
+      "free50": "50 RON discount applied!",
+      "invalidCode": "Invalid promo code.",
+      "emptyCartCannotApply": "Cannot apply promo code to an empty or zero-value cart."
+    },
+    "cannotCheckoutEmptyCart": "Your cart is empty. Please add items before proceeding to checkout."
+  },
+  "contactPage": {
+    "pageTitle": "Contact Us",
+    "infoSectionTitle": "Contact Information",
+    "address": {
+      "title": "Address",
+      "street": "123 Example St., Bucharest, Romania"
+    },
+    "phone": {
+      "title": "Phone",
+      "number1": "+40 123 456 789",
+      "number2": "+40 987 654 321"
+    },
+    "email": {
+      "title": "Email",
+      "address1": "contact@casadraperiilor.ro",
+      "address2": "orders@casadraperiilor.ro"
+    },
+    "hours": {
+      "title": "Working Hours",
+      "lnV": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "s": "Saturday: 10:00 AM - 2:00 PM",
+      "d": "Sunday: Closed"
+    },
+    "locationTitle": "Location",
+    "formSectionTitle": "Send Us a Message",
+    "form": {
+      "nameLabel": "Name",
+      "nameRequired": "Name",
+      "emailLabel": "Email",
+      "emailRequired": "Email",
+      "phoneLabel": "Phone",
+      "subjectLabel": "Subject",
+      "subjectRequired": "Subject",
+      "selectSubject": "Select a subject",
+      "generalInfo": "General Information",
+      "orderInquiry": "Order Inquiry",
+      "support": "Support",
+      "messageLabel": "Message",
+      "messageRequired": "Message",
+      "privacyPolicy": "I agree to the {policyLink}",
+      "policyLinkText": "Privacy Policy",
+      "sendButton": "Send Message"
+    },
+    "faqSectionTitle": "Frequently Asked Questions",
+    "faq1": {
+      "q": "How long does delivery take?",
+      "a": "Standard delivery takes between 2-5 business days. For custom products, delivery time may vary between 7-14 business days."
+    },
+    "faq2": {
+      "q": "Do you offer installation services?",
+      "a": "Yes, we offer professional installation services for all our products. The service cost varies depending on the complexity of the installation and can be discussed when placing the order."
+    },
+    "faq3": {
+      "q": "What is the return policy?",
+      "a": "Products can be returned within 14 days of receipt if they are in their original condition, unused, and in the original packaging. Custom products cannot be returned unless they have manufacturing defects."
+    },
+    "viewAllFaqs": "View all FAQs"
+  }
+}

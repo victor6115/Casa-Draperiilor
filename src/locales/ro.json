@@ -1,0 +1,583 @@
+{
+  "navbar": {
+    "home": "Acasă",
+    "products": "Produse",
+    "categories": "Categorii",
+    "aboutUs": "Despre noi",
+    "contact": "Contact",
+    "blog": "Blog",
+    "faq": "FAQ"
+  },
+  "home": {
+    "hero": {
+      "title": "Bine ați venit la Casa Draperiilor",
+      "subtitle": "Transformă-ți casa cu perdele și draperii de calitate superioară. Design elegant, materiale premium și consultanță gratuită.",
+      "buyNow": "Cumpără acum",
+      "viewCategories": "Categorii"
+    },
+    "features": {
+      "freeShipping": {
+        "title": "Livrare Gratuită",
+        "description": "Pentru comenzi peste 500 RON"
+      },
+      "support": {
+        "title": "Suport 24/7",
+        "description": "Consultanță gratuită"
+      },
+      "warranty": {
+        "title": "Garanție 2 Ani",
+        "description": "La toate produsele"
+      },
+      "return": {
+        "title": "Retur Gratuit",
+        "description": "În 14 zile"
+      }
+    },
+    "categories": {
+      "title": "Categorii",
+      "subtitle": "Descoperă colecția noastră variată de perdele și draperii, perfect adaptate pentru fiecare încăpere din casa ta.",
+      "blinds": "Perdele",
+      "curtains": "Draperii",
+      "accessories": "Accesorii",
+      "products": "produse",
+      "viewCollection": "Vezi colecția"
+    },
+    "products": {
+      "recommended": "Produse recomandate",
+      "subtitle": "Produse premium, atent selecționate pentru a-ți transforma casa într-un spațiu elegant și confortabil",
+      "blueVelvetCurtain": "Draperie catifea albastră",
+      "whiteSheerCurtain": "Perdea voal alb",
+      "grayBlackoutCurtain": "Draperie blackout gri",
+      "laceCurtain": "Perdea dantelă",
+      "seeMore": "Vezi mai mult"
+    },
+    "newsletter": {
+      "title": "Abonează-te la newsletter",
+      "subtitle": "Fii primul care află despre noile colecții, oferte exclusive și sfaturi pentru decorarea casei tale.",
+      "subscribe": "Abonează-te",
+      "validationError": "Vă rugăm introduceți o adresă de email validă",
+      "successMessage": "Abonare reușită! Mulțumim!"
+    }
+  },
+  "footer": {
+    "description": "Perdele și draperii de calitate pentru casa ta. Oferim o gamă largă de produse pentru toate gusturile și bugetele.",
+    "quickLinks": {
+      "title": "Link-uri rapide",
+      "home": "Acasă",
+      "products": "Produse",
+      "categories": "Categorii",
+      "aboutUs": "Despre noi",
+      "contact": "Contact",
+      "blog": "Blog",
+      "faq": "FAQ"
+    },
+    "categories": {
+      "title": "Categorii",
+      "blinds": "Perdele",
+      "curtains": "Draperii",
+      "accessories": "Accesorii",
+      "materialGallery": "Galerie materiale",
+      "specialOffers": "Oferte speciale"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Str. Independenței 15, Chișinău, Moldova",
+      "phone": "+373 22 123 456",
+      "email": "contact@casadraperiilor.md",
+      "hours": {
+        "monFri": "Luni-Vineri: 9:00 - 18:00",
+        "sat": "Sâmbătă: 10:00 - 15:00"
+      }
+    },
+    "copyright": "Toate drepturile rezervate.",
+    "terms": "Termeni și Condiții",
+    "privacy": "Politica de Confidențialitate",
+    "cookies": "Politica de Cookies"
+  },
+  "productsPage": {
+    "title": "Produse",
+    "filter": "Filtrează",
+    "view": "Vizualizare:",
+    "searchPlaceholder": "Caută produse...",
+    "blinds": "Jaluzele",
+    "draperies": "Draperii",
+    "accessories": "Accesorii",
+    "curtains": "Perdele",
+    "velvetBlueDrapery": "Draperie Albastră din Catifea",
+    "whiteVoileCurtain": "Perdea Albă din Voal",
+    "greyBlackoutDrapery": "Draperie Gri Blackout",
+    "laceCurtain": "Perdea din Dantelă",
+    "jacquardBlackoutSet": "Set Draperii Blackout Jacquard",
+    "kitchenCurtain": "Perdea de Bucătărie",
+    "bananariDrapery": "Draperie Bananari",
+    "mabellaCurtain": "Perdea Mabella",
+    "redSilkDrapery": "Draperie Roșie din Mătase",
+    "emeraldGreenDrapery": "Draperie Verde Smarald",
+    "bedroomCurtains": "Perdele de Dormitor",
+    "shesCurtains": "Perdele She's",
+    "goldSatinDrapery": "Draperie Aurie din Satin",
+    "bathroomCurtains": "Perdele de Baie",
+    "purpleVelvetDrapery": "Draperie Mov din Catifea",
+    "pinkOrganzaCurtain": "Perdea Roz din Organza",
+    "burgundyVelvetDrapery": "Draperie Bordo din Catifea",
+    "linenCurtains": "Perdele din In",
+    "navyBlueDrapery": "Draperie Albastru Marin",
+    "stripedCurtains": "Perdele cu Dungi",
+    "champagneSilkDrapery": "Draperie Șampanie din Mătase",
+    "modernGreyCurtains": "Perdele Gri Moderne",
+    "goldJacquardDrapery": "Draperie Aurie Jacquard",
+    "transparentCurtains": "Perdele Transparente",
+    "silverGrayDrapery": "Draperie Gri Argintiu",
+    "floralCurtains": "Perdele cu Flori",
+    "tealBlueDrapery": "Draperie Albastru Teal",
+    "geometricCurtains": "Perdele Geometrice",
+    "elegantPinkDrapery": "Draperie Elegantă Roz",
+    "blackoutCurtains": "Perdele Blackout",
+    "ivoryLuxuryDrapery": "Draperie Luxury Ivory",
+    "tabTopCurtains": "Perdele cu Bride",
+    "crimsonRedDrapery": "Draperie Roșu Carmin",
+    "minimalistCurtains": "Perdele Minimaliste",
+    "luxuryBlackDrapery": "Draperie Neagră de Lux",
+    "thermalCurtains": "Perdele Termice",
+    "chocolateBrownDrapery": "Draperie Maro Ciocolatiu",
+    "grommetCurtains": "Perdele cu Inele",
+    "oliveGreenDrapery": "Draperie Verde Măsliniu",
+    "vintageCurtains": "Perdele Vintage",
+    "premiumWhiteDrapery": "Draperie Albă Premium",
+    "soundproofCurtains": "Perdele Fonoabsorbante",
+    "royalPurpleDrapery": "Draperie Mov Regală",
+    "energyEfficientCurtains": "Perdele Eficiente Energetic",
+    "platinumSilverDrapery": "Draperie Argintiu Platină",
+    "verticalBlinds": "Jaluzele Verticale",
+    "horizontalAluminumBlinds": "Jaluzele Orizontale din Aluminiu",
+    "woodenBlinds": "Jaluzele din Lemn",
+    "rollUpBlinds": "Jaluzele Rulou",
+    "pleatedBlinds": "Jaluzele Plisate",
+    "bambooBlinds": "Jaluzele din Bambus",
+    "blackoutBlinds": "Jaluzele Blackout",
+    "venetianBlinds": "Jaluzele Venețiene",
+    "fabricRollerBlinds": "Jaluzele Rulou din Textil",
+    "cellularBlinds": "Jaluzele Celulare",
+    "fabricBlinds": "Jaluzele din Textil",
+    "motorizedBlinds": "Jaluzele Motorizate",
+    "outdoorBlinds": "Jaluzele Exterioare",
+    "naturalWoodBlinds": "Jaluzele din Lemn Natural",
+    "romanBlinds": "Jaluzele Romane",
+    "miniblindsSilver": "Mini-jaluzele Argintii",
+    "beigeHoneycombBlinds": "Jaluzele Fagure Bej",
+    "cordlessBlinds": "Jaluzele fără Cordoane",
+    "zebrashadeBlinds": "Jaluzele Zebra Shade",
+    "exteriorShutters": "Obloane Exterioare",
+    "privacyFilmBlinds": "Jaluzele cu Folie de Intimitate",
+    "smartBlinds": "Jaluzele Inteligente",
+    "antiGlareBlinds": "Jaluzele Anti-Orbire",
+     "curtainRods": "Bare pentru Perdele",
+    "curtainRings": "Inele pentru Perdele",
+    "curtainHooks": "Cârlige pentru Perdele",
+    "curtainTiebacks": "Legături pentru Perdele",
+    "decorativeTassels": "Ciucuri Decorativi",
+    "curtainBrackets": "Suporturi pentru Perdele",
+    "magneticTiebacks": "Legături Magnetice",
+    "extendableCurtainRod": "Bară Extensibilă pentru Perdele",
+    "curtainCord": "Frânghie pentru Perdele",
+    "curtainHoldbacks": "Reținători pentru Perdele",
+    "curtainFinials": "Capete Decorative pentru Bare",
+    "curtainClips": "Clipsuri pentru Perdele",
+    "doubleRodBracket": "Suport pentru Bară Dublă",
+    "curtainWire": "Sârmă pentru Perdele",
+    "wallMountBracket": "Suport de Perete",
+    "curtainValance": "Volane pentru Perdele",
+    "curtainSwag": "Drapaj pentru Perdele",
+    "motorizedCurtainMotor": "Motor pentru Perdele Motorizate",
+    "curtainWeights": "Greutăți pentru Perdele",
+    "curtainTiebackHooks": "Cârlige pentru Legături",
+    "remoteControl": "Telecomandă",
+    "curtainTrack": "Șină pentru Perdele",
+    "completeAccessorySet": "Set Complet de Accesorii",
+    "ron": "MDL",
+    "prev": "Precedent",
+    "next": "Următor",
+    "addToCart": "Adaugă în Coș",
+    "add": "Adaugă",
+    "addToCartFor": "Adaugă {item} în coș",
+    "addedToCartAlertSuffix": "a fost adăugat în coș!",
+    "cartError": "Nu s-a putut adăuga produsul în coș. Vă rugăm încercați din nou.",
+    "cartUpdatedMessage": "Coșul a fost actualizat!",
+    "promo": {
+      "sale10": "Reducere de 10% aplicată!",
+      "free50": "Reducere de 50 RON aplicată!",
+      "invalidCode": "Cod promoțional invalid.",
+      "emptyCartCannotApply": "Codul promoțional nu poate fi aplicat unui coș gol sau cu valoare zero."
+    },
+    "cannotCheckoutEmptyCart": "Coșul dvs. este gol. Vă rugăm adăugați produse înainte de a finaliza comanda."
+  },
+  "faqPage": {
+    "title": "Întrebări frecvente",
+    "searchPlaceholder": "Caută întrebări...",
+    "all": "Toate",
+    "orders": "Comenzi",
+    "delivery": "Livrare",
+    "returns": "Returnări",
+    "products": "Produse",
+    "payment": "Plată",
+    "ctaTitle": "Nu ai găsit răspunsul căutat?",
+    "ctaText": "Contactează-ne direct și echipa noastră îți va răspunde în cel mai scurt timp posibil.",
+    "callUs": "Sună-ne",
+    "emailUs": "Scrie-ne",
+    "phone": "+373 22 123 456",
+    "email": "contact@casadraperiilor.md",
+    "q1": "Cât durează procesarea unei comenzi?",
+    "a1": "Comenzile sunt procesate în termen de 24-48 de ore lucrătoare de la primirea acestora. După procesare, vei primi un email de confirmare cu detaliile comenzii și informații despre livrare.",
+    "q2": "Care sunt metodele de plată acceptate?",
+    "a2": "Acceptăm plata cu cardul (Visa, Mastercard), prin transfer bancar și ramburs la livrare.",
+    "q3": "Cât costă livrarea?",
+    "a3": "Costul de livrare este de 15 lei pentru comenzile sub 300 lei. Pentru comenzile cu valoare mai mare de 300 lei, livrarea este gratuită.",
+    "q4": "În cât timp ajunge comanda mea?",
+    "a4": "După procesarea comenzii, timpul de livrare este de 1-3 zile lucrătoare pentru localitățile din România.",
+    "q5": "Cum pot returna un produs?",
+    "a5": "Poți returna produsele în termen de 14 zile de la primirea comenzii. Te rugăm să ne contactezi înainte de a trimite pachetul înapoi pentru a primi instrucțiuni despre procedura de retur.",
+    "q6": "Ce fac dacă primesc un produs deteriorat?",
+    "a6": "În cazul în care ai primit un produs deteriorat, te rugăm să ne contactezi în termen de 48 de ore de la primirea comenzii. Îți vom oferi soluții pentru înlocuirea produsului sau returnarea banilor.",
+    "q7": "Oferiți servicii de montaj pentru perdele și draperii?",
+    "a7": "Da, oferim servicii de montaj pentru perdele și draperii în București și în localitățile apropiate. Costul serviciului depinde de complexitatea montajului și va fi calculat în funcție de cerințele tale specifice.",
+    "q8": "Cum aleg dimensiunea potrivită pentru perdele și draperii?",
+    "a8": "Pentru a alege dimensiunea potrivită, măsoară lățimea și înălțimea ferestrei tale. Recomandăm ca lățimea perdelelor să fie de 1.5-2 ori mai mare decât lățimea ferestrei pentru un aspect elegant și bogat. Dacă ai întrebări specifice, nu ezita să ne contactezi pentru asistență.",
+    "q9": "Cum pot anula o comandă?",
+    "a9": "Poți anula o comandă contactându-ne telefonic sau prin email în cel mai scurt timp posibil după plasarea comenzii. Dacă comanda a fost deja procesată sau expediată, nu mai poate fi anulată și va trebui să urmezi procedura de retur.",
+    "q10": "Cum pot urmări statusul comenzii mele?",
+    "a10": "Statusul comenzii poate fi urmărit prin intermediul contului tău de client de pe site. De asemenea, vei primi notificări pe mail despre schimbările statusului comenzii tale.",
+    "q11": "Ce materiale sunt recomandate pentru bucătărie?",
+    "a11": "Pentru bucătărie, recomandăm materiale ușor de întreținut și rezistente la pete, cum ar fi poliesterul sau amestecurile de bumbac cu poliester. De asemenea, există materiale cu tratamente speciale anti-pete și ignifuge, ideale pentru zona de gătit.",
+    "q12": "Pot face o comandă fără a crea un cont?",
+    "a12": "Da, poți plasa o comandă ca vizitator, fără a crea un cont. Cu toate acestea, crearea unui cont îți permite să-ți urmărești comenzile și să beneficiezi de promoții speciale."
+  },
+  "blogPage": {
+    "title": "Blog",
+    "readMore": "Citește mai mult",
+    "by": "De",
+    "sidebar": {
+      "searchTitle": "Caută",
+      "searchPlaceholder": "Caută articole...",
+      "searchButton": "Caută",
+      "recentPostsTitle": "Articole recente"
+    },
+    "pagination": {
+      "previous": "«",
+      "next": "»"
+    },
+    "post1": {
+      "date": "15 Mai 2023",
+      "author": "Maria Ionescu",
+      "title": "Cum să alegi perdelele potrivite pentru fiecare cameră",
+      "excerpt": "Ghid complet pentru alegerea perdelelor în funcție de cameră, stil și funcționalitate. Află care sunt materialele potrivite pentru fiecare începere."
+    },
+    "post2": {
+      "date": "3 Aprilie 2023",
+      "author": "Alexandru Popescu",
+      "title": "Tendințe în design interior pentru 2023",
+      "excerpt": "Descoperă cele mai noi tendințe în materie de perdele și draperii pentru anul 2023. De la culori la texturi și modele, află ce este în vogă anul acesta."
+    },
+    "post3": {
+      "date": "20 Martie 2023",
+      "author": "Elena Munteanu",
+      "title": "Cum să îngrijești corect perdelele și draperiile",
+      "excerpt": "Sfaturi practice pentru întreținerea și curățarea perdelelor și draperiilor. Află cum să prelungești durata de viață a textilelor tale."
+    },
+    "post4": {
+      "date": "5 Februarie 2023",
+      "author": "Mihai Dobre",
+      "title": "Importanța draperiilor blackout pentru un somn odihnitor",
+      "excerpt": "Află de ce draperiile blackout sunt esențiale pentru un dormitor și cum contribuie la îmbunătățirea calității somnului."
+    },
+    "post5": {
+      "date": "10 Ianuarie 2023",
+      "author": "Ana Popa",
+      "title": "Perdele și draperii pentru sezonul cald",
+      "excerpt": "Recomandări pentru alegerea textilelor potrivite în sezonul cald. Materiale, culori și stiluri care mențin răcoarea în casă."
+    },
+    "closeButton": "Închide",
+    "fullContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "post1FullContent": "Ghid complet pentru alegerea perdelelor în funcție de cameră, stil și funcționalitate. Află care sunt materialele potrivite pentru fiecare începere. În acest articol, îți vom prezenta cele mai bune sfaturi și trucuri pentru a alege perdelele ideale pentru fiecare cameră din casa ta. Indiferent dacă dorești să creezi un ambient cald și primitor în living, să asiguri intimitatea în dormitor sau să aduci un strop de culoare în bucătărie, avem soluții pentru tine. Vom discuta despre diferitele tipuri de materiale, modele și culori disponibile, precum și despre cum să măsori corect feroneria pentru perdele. De asemenea, îți vom oferi sugestii despre cum să întreții și să cureți perdelele pentru a le menține aspectul nou și proaspăt. Citește mai departe pentru a descoperi tot ce trebuie să știi despre alegerea perdelelor potrivite pentru casa ta.",
+    "post2FullContent": "Descoperă cele mai noi tendințe în materie de perdele și draperii pentru anul 2023. De la culori la texturi și modele, află ce este în vogă anul acesta. În acest articol, îți vom prezenta cele mai importante tendințe în designul perdelelor și draperiilor pentru anul 2023. Vei afla ce culori sunt la modă, ce tipuri de materiale sunt cele mai căutate și ce modele sunt în tendințe. De asemenea, îți vom oferi sfaturi despre cum să alegi perdelele și draperiile potrivite pentru stilul tău de interior și cum să le asortezi cu restul decorului din casă. Nu rata ocazia de a fi la curent cu cele mai noi tendințe în materie de perdele și draperii!",
+    "post3FullContent": "Sfaturi practice pentru întreținerea și curățarea perdelelor și draperiilor. Află cum să prelungești durata de viață a textilelor tale. În acest articol, îți vom oferi cele mai bune sfaturi pentru a îngriji și curăța perdelele și draperiile tale. Vei învăța cum să îndepărtezi praful și murdăria, cum să elimini petele și mirosurile neplăcute și cum să păstrezi culorile vii și materialele în stare bună. De asemenea, îți vom oferi informații despre cum să alegi produsele de curățare potrivite și cum să eviți deteriorarea țesăturilor. Citește mai departe pentru a descoperi toate secretele întreținerii perdelelor și draperiilor.",
+    "post4FullContent": "Află de ce draperiile blackout sunt esențiale pentru un dormitor și cum contribuie la îmbunătățirea calității somnului. În acest articol, vom discuta despre beneficiile draperiilor blackout și de ce ar trebui să le iei în considerare pentru dormitorul tău. Vei afla cum aceste draperii speciale pot bloca lumina exterioră, pot izola fonic și pot îmbunătăți calitatea somnului. De asemenea, îți vom oferi sfaturi despre cum să alegi draperiile blackout potrivite pentru feroneria ta și cum să le întreții pentru a le menține aspectul nou și funcționalitatea. Nu rata ocazia de a descoperi toate avantajele draperiilor blackout pentru un somn odihnitor.",
+    "post5FullContent": "Recomandări pentru alegerea textilelor potrivite în sezonul cald. Materiale, culori și stiluri care mențin răcoarea în casă. În acest articol, îți vom oferi cele mai bune sfaturi pentru a alege perdelele și draperiile potrivite pentru sezonul cald. Vei afla ce materiale sunt cele mai potrivite pentru a menține răcoarea în casă, ce culori sunt recomandate pentru a reflecta căldura și ce stiluri sunt cele mai potrivite pentru sezonul estival. De asemenea, îți vom oferi informații despre cum să îngrijești și să întreții perdelele și draperiile pentru a le menține aspectul proaspăt și curat pe durata verii. Citește mai departe pentru a descoperi toate secretele alegerii textilelor potrivite pentru sezonul cald.",
+    "readLess": "Citește mai puțin"
+  },
+  "categoriesPage": {
+    "pageTitle": "Categorii",
+    "viewAllProducts": "Vezi toate produsele",
+    "subcategoriesTitle": "Subcategorii:",
+    "popularSubcategoriesTitle": "Subcategorii populare",
+    "productsCount": "{count} produse",
+    "luxuryCollectionTitle": "Colecția de lux",
+    "luxuryCollectionDescription": "Draperii și perdele din materiale premium",
+    "discoverCollection": "Descoperă colecția",
+    "promotionsCollectionTitle": "Promoții",
+    
+    "promotionsCollectionDescription": "Reduceri de până la 30% la produsele selectate",
+    "viewDetails": "Vezi detaliile",
+    "categoryPerdele": {
+      "name": "Perdele",
+      "description": "Perdele elegante pentru orice încăpere, într-o varietate de materiale și stiluri.",
+      "subcategories": [
+        {
+          "name": "Perdele voal",
+          "key": "voileCurtains"
+        },
+        {
+          "name": "Perdele blackout",
+          "key": "blackoutCurtains"
+        },
+        {
+          "name": "Perdele dantelă",
+          "key": "laceCurtains"
+        },
+        {
+          "name": "Perdele copii",
+          "key": "kidsCurtains"
+        }
+      ]
+    },
+    "categoryDraperii": {
+      "name": "Draperii",
+      "description": "Draperii de calitate superioară care oferă izolare termică și fonică excelentă.",
+      "subcategories": [
+        {
+          "name": "Draperii blackout",
+          "key": "blackoutDrapes"
+        },
+        {
+          "name": "Draperii termo-izolante",
+          "key": "thermalDrapes"
+        },
+        {
+          "name": "Draperii catifea",
+          "key": "velvetDrapes"
+        },
+        {
+          "name": "Draperii decorative",
+          "key": "decorativeDrapes"
+        }
+      ]
+    },
+    "categoryAccesorii": {
+      "name": "Accesorii",
+      "description": "Accesorii pentru perdele și draperii: galerii, inele, cârlige și multe altele.",
+      "subcategories": [
+        {
+          "name": "Galerii metalice",
+          "key": "metalRods"
+        },
+        {
+          "name": "Inele și cârlige",
+          "key": "ringsHooks"
+        },
+        {
+          "name": "Galerii lemn",
+          "key": "woodenRods"
+        },
+        {
+          "name": "Accesorii decorative",
+          "key": "decorativeAccessories"
+        }
+      ]
+    },
+    "categoryJaluzele": {
+      "name": "Jaluzele",
+      "description": "Jaluzele verticale și orizontale, perfecte pentru controlul luminii și intimitate.",
+      "subcategories": [
+        {
+          "name": "Jaluzele verticale",
+          "key": "verticalBlinds"
+        },
+        {
+          "name": "Jaluzele romane",
+          "key": "romanBlinds"
+        },
+        {
+          "name": "Jaluzele orizontale",
+          "key": "horizontalBlinds"
+        },
+        {
+          "name": "Rulouri textile",
+          "key": "rollerBlinds"
+        }
+      ]
+    },
+    "popular": {
+      "voileCurtains": "Perdele voal",
+      "blackoutDrapes": "Draperii blackout",
+      "metalRods": "Galerii metalice",
+      "velvetDrapes": "Draperii catifea",
+      "verticalBlinds": "Jaluzele verticale",
+      "kidsCurtains": "Perdele copii"
+    }
+  },
+  "aboutPage": {
+    "pageTitle": "Despre noi",
+    "mainSection": {
+      "title": "Despre Casa Draperiilor",
+      "p1": "Casa Draperiilor este un magazin specializat în perdele și draperii de înaltă calitate, oferind soluții personalizate pentru decorarea ferestrelor din orice tip de locuință sau spațiu comercial.",
+      "p2": "Cu o experiență de peste 15 ani în domeniu, ne-am construit reputația pe baza produselor de calitate, a serviciilor impecabile și a atenției la detalii. Echipa noastră de profesioniști este dedicată să vă ajute să găsiți soluția perfectă pentru feroneria dumneavoastră.",
+      "p3": "Fie că doriți să creați un ambient elegant pentru living, să asigurați intimitatea în dormitor sau să aduceți un strop de culoare în bucătărie, suntem aici să vă oferim sfaturi și produse care să transforme viziunea dumneavoastră în realitate."
+    },
+    "valuesSection": {
+      "title": "Valorile noastre",
+      "value1": {
+        "icon": "⭐",
+        "title": "Calitate",
+        "description": "Lucrăm doar cu materiale premium și furnizori de încredere pentru a oferi produse durabile și estetice care rezistă testului timpului."
+      },
+      "value2": {
+        "icon": "❤️",
+        "title": "Servicii personalizate",
+        "description": "Fiecare client este unic, de aceea oferim consultanță personalizată și soluții adaptate nevoilor și preferințelor individuale."
+      },
+      "value3": {
+        "icon": "💡",
+        "title": "Inovație",
+        "description": "Urmărim constant tendințele în design interior și aducem cele mai noi materiale și tehnologii pentru a vă oferi opțiuni moderne și funcționale."
+      }
+    },
+    "storySection": {
+      "title": "Povestea noastră",
+      "p1": "Casa Draperiilor a început ca o mică afacere de familie în 2007, când fondatorul nostru, Alexandru Popescu, pasionat de textile și design interior, a deschis primul magazin în București.",
+      "p2": "De-a lungul anilor, am crescut constant, adăugând noi colecții și extinzându-ne serviciile pentru a răspunde cerințelor în continuă evoluție ale clienților noștri. În 2015, am lansat magazinul online pentru a face produsele noastre accesibile clienților din toată țara.",
+      "p3": "Astăzi, Casa Draperiilor este un nume de referință în domeniul perdelelor și draperiilor. Ne-am răspândit nu doar în România, ci și în Europa de Est, iar prezența online puternică. Continuăm să ne ghidăm după aceleași principii care ne-au definit de la început: calitate, servicii excelente și pasiune pentru frumos."
+    },
+    "teamSection": {
+      "title": "Echipa noastră",
+      "member1": {
+        "name": "Alexandru Popescu",
+        "role": "Fondator & Director"
+      },
+      "member2": {
+        "name": "Maria Ionescu",
+        "role": "Designer Interior"
+      },
+      "member3": {
+        "name": "Mihai Dobre",
+        "role": "Manager Vânzări"
+      },
+      "member4": {
+        "name": "Elena Munteanu",
+        "role": "Consultant Clienți"
+      }
+    },
+    "testimonialsSection": {
+      "title": "Ce spun clienții despre noi",
+      "testimonial1": {
+        "stars": "⭐⭐⭐⭐⭐",
+        "text": "\"Servicii impecabile și produse de calitate. Am fost plăcut surprinsă de profesionalismul echipei și de rezultatul final. Perdelele sunt exact ce mi-am dorit!\"",
+        "authorName": "Ana Popa",
+        "authorDetail": "Client din 2020"
+      },
+      "testimonial2": {
+        "stars": "⭐⭐⭐⭐⭐",
+        "text": "\"Am apreciat foarte mult consultanța oferită. Echipa m-a ajutat să aleg cele mai potrivite draperii pentru living și sunt extrem de mulțumit de rezultat!\"",
+        "authorName": "Radu Marin",
+        "authorDetail": "Client din 2019"
+      },
+      "testimonial3": {
+        "stars": "⭐⭐⭐⭐⭐",
+        "text": "\"Calitate excepțională și profesionalism. Am comandat draperii pentru întreaga casă și sunt absolut încântată. Recomand cu drag Casa Draperiilor!\"",
+        "authorName": "Diana Florescu",
+        "authorDetail": "Client din 2021"
+      }
+    }
+  },
+  "cartPage": {
+    "pageTitle": "Coș de cumpărături",
+    "table": {
+      "product": "Produs",
+      "quantity": "Cantitate",
+      "price": "Preț",
+      "total": "Total",
+      "actions": ""
+    },
+    "product1Name": "Draperie catifea albastră",
+    "product2Name": "Draperie blackout gri",
+    "currency": "MDL",
+    "continueShopping": "← Continuă cumpărăturile",
+    "updateCart": "↻ Actualizează coșul",
+    "summary": {
+      "title": "Sumar comandă",
+      "subtotal": "Subtotal",
+      "shipping": "Transport",
+      "freeShipping": "Gratuit",
+      "total": "Total",
+      "promoCode": "Cod promoțional",
+      "promoPlaceholder": "Introdu codul",
+      "applyButton": "Aplică",
+      "checkoutButton": "Finalizează comanda",
+      "paymentMethodsTitle": "Metode de plată acceptate:",
+      "paymentVisa": "Visa",
+      "paymentMastercard": "MasterCard",
+      "paymentPaypal": "PayPal"
+    },
+    "emptyCart": {
+      "title": "Coșul tău este gol",
+      "message": "Se pare că nu ai adăugat încă niciun produs în coș.",
+      "browseProducts": "Vezi Produsele"
+    }
+  },
+  "contactPage": {
+    "pageTitle": "Contact",
+    "infoSectionTitle": "Informații de contact",
+    "address": {
+      "title": "Adresă",
+      "street": "Str. Exemplu nr. 123, București, România"
+    },
+    "phone": {
+      "title": "Telefon",
+      "number1": "+40 123 456 789",
+      "number2": "+40 987 654 321"
+    },
+    "email": {
+      "title": "Email",
+      "address1": "contact@casadraperiilor.ro",
+      "address2": "comenzi@casadraperiilor.ro"
+    },
+    "hours": {
+      "title": "Program",
+      "lnV": "Luni - Vineri: 9:00 - 18:00",
+      "s": "Sâmbătă: 10:00 - 14:00",
+      "d": "Duminică: Închis"
+    },
+    "locationTitle": "Locație",
+    "formSectionTitle": "Trimite-ne un mesaj",
+    "form": {
+      "nameLabel": "Nume",
+      "nameRequired": "Nume",
+      "emailLabel": "Email",
+      "emailRequired": "Email",
+      "phoneLabel": "Telefon",
+      "subjectLabel": "Subiect",
+      "subjectRequired": "Subiect",
+      "selectSubject": "Selectează un subiect",
+      "generalInfo": "Informații generale",
+      "orderInquiry": "Comandă",
+      "support": "Suport",
+      "messageLabel": "Mesaj",
+      "messageRequired": "Mesaj",
+      "privacyPolicy": "Sunt de acord cu {policyLink}",
+      "policyLinkText": "Politica de confidențialitate",
+      "sendButton": "Trimite Mesajul"
+    },
+    "faqSectionTitle": "Întrebări frecvente",
+    "faq1": {
+      "q": "Cât durează livrarea?",
+      "a": "Livrarea standard durează între 2-5 zile lucrătoare. Pentru produsele personalizate, timpul de livrare poate varia între 7-14 zile lucrătoare."
+    },
+    "faq2": {
+      "q": "Oferiți servicii de montaj?",
+      "a": "Da, oferim servicii de montaj profesional pentru toate produsele noastre. Costul serviciului variază în funcție de complexitatea montajului și poate fi discutat în momentul plasării comenzii."
+    },
+    "faq3": {
+      "q": "Care este politica de returnare?",
+      "a": "Produsele pot fi returnate în termen de 14 zile de la primire dacă sunt în starea originală, nefolosite și în ambalajul original. Produsele personalizate nu pot fi returnate decât dacă prezintă defecte de fabricație."
+    },
+    "viewAllFaqs": "Vezi toate întrebările frecvente"
+  }
+}

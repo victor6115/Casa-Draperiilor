@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX003y1znHQm8eC1DE8kNBI4Ztuc5UYFeo0Q&s",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.velvetBlueDrapery",
+    "price": "199.99"
+  },
+  {
+    "id": 2,
+    "image": "https://www.smart.md/image/cache/data/results-photos/emag2702/Perdea-Voal-Alb-230-x-400-352x352.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.whiteVoileCurtain",
+    "price": "149.99"
+  },
+  {
+    "id": 3,
+    "image": "https://c.cdnmp.net/727675789/p/l/8/set-draperie-blackout-gri-inchis-casa-deco-logistics-cu-inele-capse~18168.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.greyBlackoutDrapery",
+    "price": "249.99"
+  },
+  {
+    "id": 4,
+    "image": "https://eperdeledraperii.ro/files/Dolores_LG237XZ_E.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.laceCurtain",
+    "price": "179.99"
+  },
+  {
+    "id": 5,
+    "image": "https://static.biano.ro/i/product/1020-1020/ea/06/3d/66ba1988a2c70a1af5d3dda2c1fa1959ded77b11-set-doua-draperii-blackout-din-tafta-premium-jacquard-model-royal-gata-lucrate-inele-galerie-culoare-maro-caramiziu-bej-efect-semi-lucios-dimensiuni-draperie-160x260-cm-x2-brand-originalio.webp",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.jacquardBlackoutSet",
+    "price": "349.99"
+  },
+  {
+    "id": 6,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard1_e20be93d-699d-4f26-8cb1-1a690c80ed87.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.kitchenCurtain",
+    "price": "99.99"
+  },
+  {
+    "id": 7,
+    "image": "https://www.smart.md/image/cache/data/results-photos/homeyou/draperie-bananari-140x250cm-536x536.webp",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.bananariDrapery",
+    "price": "555.99"
+  },
+  {
+    "id": 8,
+    "image": "https://www.smart.md/image/cache/data/results-photos/homeyou/perdea-mabella-140x250cm-536x536.webp",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.mabellaCurtain",
+    "price": "410.99"
+  },
+  {
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX003y1znHQm8eC1DE8kNBI4Ztuc5UYFeo0Q&s",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.velvetBlueDrapery",
+    "price": "189.99"
+  },
+  {
+    "id": 10,
+    "image": "https://www.smart.md/image/cache/data/results-photos/emag2702/Perdea-Voal-Alb-230-x-400-352x352.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.whiteVoileCurtain",
+    "price": "139.99"
+  },
+  {
+    "id": 11,
+    "image": "https://c.cdnmp.net/727675789/p/l/8/set-draperie-blackout-gri-inchis-casa-deco-logistics-cu-inele-capse~18168.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.greyBlackoutDrapery",
+    "price": "239.99"
+  },
+  {
+    "id": 12,
+    "image": "https://eperdeledraperii.ro/files/Dolores_LG237XZ_E.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.laceCurtain",
+    "price": "169.99"
+  },
+  {
+    "id": 13,
+    "image": "https://static.biano.ro/i/product/1020-1020/ea/06/3d/66ba1988a2c70a1af5d3dda2c1fa1959ded77b11-set-doua-draperii-blackout-din-tafta-premium-jacquard-model-royal-gata-lucrate-inele-galerie-culoare-maro-caramiziu-bej-efect-semi-lucios-dimensiuni-draperie-160x260-cm-x2-brand-originalio.webp",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.jacquardBlackoutSet",
+    "price": "329.99"
+  },
+  {
+    "id": 14,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard1_e20be93d-699d-4f26-8cb1-1a690c80ed87.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.kitchenCurtain",
+    "price": "89.99"
+  },
+  {
+    "id": 15,
+    "image": "https://www.smart.md/image/cache/data/results-photos/homeyou/draperie-bananari-140x250cm-536x536.webp",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.bananariDrapery",
+    "price": "535.99"
+  },
+  {
+    "id": 16,
+    "image": "https://www.smart.md/image/cache/data/results-photos/homeyou/perdea-mabella-140x250cm-536x536.webp",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.mabellaCurtain",
+    "price": "390.99"
+  },
+  {
+    "id": 17,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX003y1znHQm8eC1DE8kNBI4Ztuc5UYFeo0Q&s",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.velvetBlueDrapery",
+    "price": "199.99"
+  },
+  {
+    "id": 18,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.verticalBlinds",
+    "price": "159.99"
+  },
+  {
+    "id": 19,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.horizontalAluminumBlinds",
+    "price": "129.99"
+  },
+  {
+    "id": 20,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.woodenBlinds",
+    "price": "289.99"
+  },
+  {
+    "id": 21,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.rollUpBlinds",
+    "price": "219.99"
+  },
+  {
+    "id": 22,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.pleatedBlinds",
+    "price": "179.99"
+  },
+  {
+    "id": 23,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainRods",
+    "price": "49.99"
+  },
+  {
+    "id": 24,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainRings",
+    "price": "24.99"
+  },
+  {
+    "id": 25,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainHooks",
+    "price": "19.99"
+  },
+  {
+    "id": 26,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainTiebacks",
+    "price": "34.99"
+  },
+  {
+    "id": 27,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.redSilkDrapery",
+    "price": "429.99"
+  },
+  {
+    "id": 28,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.emeraldGreenDrapery",
+    "price": "369.99"
+  },
+  {
+    "id": 29,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.bedroomCurtains",
+    "price": "199.99"
+  },
+  {
+    "id": 30,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.shesCurtains",
+    "price": "259.99"
+  },
+  {
+    "id": 31,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.bambooBlinds",
+    "price": "199.99"
+  },
+  {
+    "id": 32,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.blackoutBlinds",
+    "price": "249.99"
+  },
+  {
+    "id": 33,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.decorativeTassels",
+    "price": "29.99"
+  },
+  {
+    "id": 34,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainBrackets",
+    "price": "39.99"
+  },
+  {
+    "id": 35,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.goldSatinDrapery",
+    "price": "459.99"
+  },
+  {
+    "id": 36,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.bathroomCurtains",
+    "price": "79.99"
+  },
+  {
+    "id": 37,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.venetianBlinds",
+    "price": "169.99"
+  },
+  {
+    "id": 38,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.magneticTiebacks",
+    "price": "44.99"
+  },
+  {
+    "id": 39,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.purpleVelvetDrapery",
+    "price": "389.99"
+  },
+  {
+    "id": 40,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.pinkOrganzaCurtain",
+    "price": "169.99"
+  },
+  {
+    "id": 41,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.fabricRollerBlinds",
+    "price": "209.99"
+  },
+  {
+    "id": 42,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.extendableCurtainRod",
+    "price": "69.99"
+  },
+  {
+    "id": 43,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.burgundyVelvetDrapery",
+    "price": "419.99"
+  },
+  {
+    "id": 44,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.linenCurtains",
+    "price": "229.99"
+  },
+  {
+    "id": 45,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.cellularBlinds",
+    "price": "279.99"
+  },
+  {
+    "id": 46,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainCord",
+    "price": "14.99"
+  },
+  {
+    "id": 47,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.navyBlueDrapery",
+    "price": "359.99"
+  },
+  {
+    "id": 48,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.stripedCurtains",
+    "price": "189.99"
+  },
+  {
+    "id": 49,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.fabricBlinds",
+    "price": "239.99"
+  },
+  {
+    "id": 50,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainHoldbacks",
+    "price": "54.99"
+  },
+  {
+    "id": 51,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.champagneSilkDrapery",
+    "price": "499.99"
+  },
+  {
+    "id": 52,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.modernGreyCurtains",
+    "price": "219.99"
+  },
+  {
+    "id": 53,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.motorizedBlinds",
+    "price": "599.99"
+  },
+  {
+    "id": 54,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainFinials",
+    "price": "39.99"
+  },
+  {
+    "id": 55,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.goldJacquardDrapery",
+    "price": "439.99"
+  },
+  {
+    "id": 56,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.transparentCurtains",
+    "price": "149.99"
+  },
+  {
+    "id": 57,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.outdoorBlinds",
+    "price": "459.99"
+  },
+  {
+    "id": 58,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainClips",
+    "price": "16.99"
+  },
+  {
+    "id": 59,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.silverGrayDrapery",
+    "price": "379.99"
+  },
+  {
+    "id": 60,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.floralCurtains",
+    "price": "199.99"
+  },
+  {
+    "id": 61,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.naturalWoodBlinds",
+    "price": "319.99"
+  },
+  {
+    "id": 62,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.doubleRodBracket",
+    "price": "59.99"
+  },
+  {
+    "id": 63,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.tealBlueDrapery",
+    "price": "399.99"
+  },
+  {
+    "id": 64,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.geometricCurtains",
+    "price": "239.99"
+  },
+  {
+    "id": 65,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.romanBlinds",
+    "price": "269.99"
+  },
+  {
+    "id": 66,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainWire",
+    "price": "22.99"
+  },
+  {
+    "id": 67,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.elegantPinkDrapery",
+    "price": "349.99"
+  },
+  {
+    "id": 68,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.blackoutCurtains",
+    "price": "279.99"
+  },
+  {
+    "id": 69,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.miniblindsSilver",
+    "price": "99.99"
+  },
+  {
+    "id": 70,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.wallMountBracket",
+    "price": "34.99"
+  },
+  {
+    "id": 71,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.ivoryLuxuryDrapery",
+    "price": "529.99"
+  },
+  {
+    "id": 72,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.tabTopCurtains",
+    "price": "129.99"
+  },
+  {
+    "id": 73,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.beigeHoneycombBlinds",
+    "price": "189.99"
+  },
+  {
+    "id": 74,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainValance",
+    "price": "49.99"
+  },
+  {
+    "id": 75,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.crimsonRedDrapery",
+    "price": "469.99"
+  },
+  {
+    "id": 76,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.minimalistCurtains",
+    "price": "179.99"
+  },
+  {
+    "id": 77,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.cordlessBlinds",
+    "price": "299.99"
+  },
+  {
+    "id": 78,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainSwag",
+    "price": "64.99"
+  },
+  {
+    "id": 79,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.luxuryBlackDrapery",
+    "price": "489.99"
+  },
+  {
+    "id": 80,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.thermalCurtains",
+    "price": "259.99"
+  },
+  {
+    "id": 81,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.zebrashadeBlinds",
+    "price": "339.99"
+  },
+  {
+    "id": 82,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.motorizedCurtainMotor",
+    "price": "299.99"
+  },
+  {
+    "id": 83,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.chocolateBrownDrapery",
+    "price": "399.99"
+  },
+  {
+    "id": 84,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.grommetCurtains",
+    "price": "189.99"
+  },
+  {
+    "id": 85,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.exteriorShutters",
+    "price": "699.99"
+  },
+  {
+    "id": 86,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainWeights",
+    "price": "18.99"
+  },
+  {
+    "id": 87,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.oliveGreenDrapery",
+    "price": "369.99"
+  },
+  {
+    "id": 88,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.vintageCurtains",
+    "price": "219.99"
+  },
+  {
+    "id": 89,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.privacyFilmBlinds",
+    "price": "159.99"
+  },
+  {
+    "id": 90,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainTiebackHooks",
+    "price": "26.99"
+  },
+  {
+    "id": 91,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.premiumWhiteDrapery",
+    "price": "449.99"
+  },
+  {
+    "id": 92,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.soundproofCurtains",
+    "price": "329.99"
+  },
+  {
+    "id": 93,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.smartBlinds",
+    "price": "799.99"
+  },
+  {
+    "id": 94,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.remoteControl",
+    "price": "89.99"
+  },
+  {
+    "id": 95,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.royalPurpleDrapery",
+    "price": "519.99"
+  },
+  {
+    "id": 96,
+    "image": "https://trendhome.ro/wp-content/uploads/2024/10/matase-ivory-600x600.jpg",
+    "categoryKey": "productsPage.curtains",
+    "titleKey": "productsPage.energyEfficientCurtains",
+    "price": "299.99"
+  },
+  {
+    "id": 97,
+    "image": "https://m.media-amazon.com/images/I/61XVdtXiZcL._AC_SL1000_.jpg",
+    "categoryKey": "productsPage.blinds",
+    "titleKey": "productsPage.antiGlareBlinds",
+    "price": "419.99"
+  },
+  {
+    "id": 98,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.curtainTrack",
+    "price": "74.99"
+  },
+  {
+    "id": 99,
+    "image": "https://draperii.md/wp-content/uploads/2024/06/catifea-pe-lenta-simpla-300x300.jpg",
+    "categoryKey": "productsPage.draperies",
+    "titleKey": "productsPage.platinumSilverDrapery",
+    "price": "589.99"
+  },
+  {
+    "id": 100,
+    "image": "https://homedeko.ro/cdn/shop/products/Artboard8_928e9507-c1c6-4ae1-b1d5-089a6e62749d.jpg",
+    "categoryKey": "productsPage.accessories",
+    "titleKey": "productsPage.completeAccessorySet",
+    "price": "149.99"
+  }
+]
